@@ -1,3 +1,12 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Ayan Khan</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on full stack development<br>🤝 I’m looking for help with Angular and React<br>🌱 I’m currently learning Angular<br>💬 Ask me about front-end Development<br>⚡ Fun fact : I love tea more than Coffee 
 
