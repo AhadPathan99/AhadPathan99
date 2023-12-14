@@ -9,7 +9,7 @@
   
 # 💫 About Me:
  🔭 I’m currently working as an intern at [Mitra Fintech](https://github.com/mitra-Fintech)<br>👯 I’m looking to collaborate on full stack development<br>🤝 I’m looking for help with Angular and React<br>🌱 I’m currently learning Angular<br>💬 Ask me about front-end Development<br>⚡ Fun fact : I love tea more than Coffee 
-
+ 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AyanKhan) <a href="https://www.linkedin.com/in/Ayan Khan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
