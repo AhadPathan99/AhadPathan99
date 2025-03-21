@@ -8,7 +8,7 @@
      
    
 # 💫 About Me:
- 🔭 I’m currently working as an intern at [Mitra Fintech](https://github.com/mitra-Fintech)<br>👯 I’m looking to collaborate on full stack development<br>🤝 I’m looking for help with Angular and React<br>🌱 I’m currently learning Angular<br>💬 Ask me about front-end Development<br>⚡ Fun fact : I love tea more than Coffee 
+ 🔭 I’m currently working as an intern at [YNG Media](https://www.yngmedia.com/)<br>👯 I’m looking to collaborate on full stack development<br>🤝 I’m looking for help with Angular and React<br>🌱 I’m currently learning Angular<br>💬 Ask me about front-end Development<br>⚡ Fun fact : I love tea more than Coffee 
  
 
 ## 🌐 Socials:
